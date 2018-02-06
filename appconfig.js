@@ -1,0 +1,1 @@
+export const SERVER_URL = 'https://api.vs9.nwaj.ru/v1'
